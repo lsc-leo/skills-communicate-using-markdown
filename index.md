@@ -11,4 +11,8 @@ var myVar = "This is my hello, world";
 
 ### 3
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ###### 6
