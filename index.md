@@ -4,6 +4,11 @@
 
 ## Header 2
 
+```
+This is a code part, that looks cody:
+var myVar = "This is my hello, world";
+```
+
 ### 3
 
 ###### 6
